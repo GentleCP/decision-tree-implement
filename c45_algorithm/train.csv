@@ -1,0 +1,15 @@
+id,weather,temprature,humidity,wind_speed,activity
+1,sunny,hot,high,weak,off
+2,sunny,hot,high,strong,off
+3,cloud,hot,high,weak,on
+4,rain,soft,high,weak,on
+5,rain,cold,normal,weak,on
+6,rain,cold,normal,strong,off
+7,cloud,cold,normal,strong,on
+8,sunny,soft,high,weak,off
+9,sunny,cold,normal,weak,on
+10,rain,soft,normal,weak,on
+11,sunny,soft,normal,strong,on
+12,cloud,soft,high,strong,on
+13,cloud,hot,normal,weak,on
+14,rain,soft,high,strong,off

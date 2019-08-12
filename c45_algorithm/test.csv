@@ -1,0 +1,15 @@
+weather,temprature,humidity,wind_speed,activity
+avc,hot,high,weak,on
+rain,clod,normal,strong,off
+sunny,soft,normal,strong,on
+rain,hot,high,weak,on
+rain,clod,high,weak,on
+sunny,soft,normal,weak,on
+rain,hot,normal,strong,off
+rain,clod,high,strong,off
+sunny,soft,high,weak,off
+rain,hot,normal,weak,on
+rain,clod,normal,weak,on
+sunny,soft,high,strong,off
+rain,hot,high,strong,off
+cloud,clod,normal,weak,on
